@@ -1,8 +1,11 @@
 import './App.css';
+import Hero from './components/hero/Hero';
 
 function App() {
   return (
-    <div></div>
+    <div className='app'>
+      <Hero />
+    </div>
   );
 }
 
