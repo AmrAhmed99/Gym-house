@@ -30,3 +30,21 @@
 .footer-logo img {
     width: 10rem;
 }
+
+.footer-blur-left {
+    bottom: 0;
+    left: 15%;
+    width: 26rem;
+    height: 12rem;
+    filter: blur(200px);
+    background: rgb(255, 115, 0);
+}
+
+.footer-blur-right {
+    bottom: 0;
+    right: 15%;
+    width: 26rem;
+    height: 12rem;
+    filter: blur(200px);
+    background: red;
+}

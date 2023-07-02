@@ -23,6 +23,9 @@ const Footer = () => {
                 <Link to='/'><img src={Logo} alt="fit club" /></Link>
             </div>
         </div>
+
+        <div className='blur footer-blur-left'/>
+        <div className='blur footer-blur-right'/>
     </div>
   );
 }

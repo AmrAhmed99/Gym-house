@@ -81,3 +81,17 @@
 .plan-forMoreInfo {
     font-size: .8rem;
 }
+
+.plans-blur-left {
+    width: 32rem;
+    height: 23rem;
+    top: 9rem;
+    left: 0;
+}
+
+.plans-blur-right {
+    width: 32rem;
+    height: 23rem;
+    top: 13rem;
+    right: 0;
+}

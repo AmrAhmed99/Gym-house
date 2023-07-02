@@ -7,6 +7,9 @@ const Plans = () => {
   return (
     <div className='plans-container'>
       
+      <div className='blur plans-blur-left'/>
+      <div className='blur plans-blur-right'/>
+
       <div className='plans-container-header'>
         <span className='stroke-text'>Ready to start</span>
         <span>Your journey</span>
